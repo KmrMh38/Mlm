@@ -10,7 +10,7 @@ export default function Montante() {
       cote: '1.30',
       mise: '1000 FCFA',
       gainPotentiel: '1300 FCFA',
-      statut: 'en cours',
+      statut: 'terminé',
     },
     {
       jour: 2,
@@ -19,7 +19,7 @@ export default function Montante() {
       cote: '1.50',
       mise: '1300 FCFA',
       gainPotentiel: '1950 FCFA',
-      statut: 'à venir',
+      statut: 'en cours',
     },
     {
       jour: 3,
