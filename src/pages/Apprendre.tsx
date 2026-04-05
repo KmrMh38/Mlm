@@ -89,7 +89,7 @@ export default function Apprendre() {
     {
       question: 'Quel est le montant minimum pour parier ?',
       reponse:
-        'Le minimum varie selon le bookmaker, mais généralement tu peux commencer à partir de 100 FCFA.',
+        'Le minimum varie selon le bookmaker, mais généralement tu peux commencer à partir de 90 FCFA.',
     },
     {
       question: 'Comment retirer mes gains ?',

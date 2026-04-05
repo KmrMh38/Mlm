@@ -69,7 +69,7 @@ export default function Bonus() {
             Bonus exclusif
           </h1>
           <p className="text-gray-400 text-base sm:text-lg mb-6">
-            Utilise le code <span className="text-yellow-500 font-bold text-xl">MOULIOM100</span>{' '}
+            Utilise le code <span className="text-yellow-500 font-bold text-xl">LDCMH</span>{' '}
             pour ton bonus
           </p>
           <div className="inline-flex items-center gap-2 bg-red-600 text-white px-4 py-2 rounded-full text-sm font-semibold">
