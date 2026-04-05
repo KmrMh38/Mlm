@@ -31,7 +31,7 @@ export default function Navigation({ currentPage, onNavigate }: NavigationProps)
               onClick={() => handleNavigate('accueil')}
               className="text-yellow-500 font-bold text-xl sm:text-2xl hover:text-yellow-400 transition-colors"
             >
-              ⚽ PronoWin
+            Melbet tip's 
             </button>
           </div>
 
